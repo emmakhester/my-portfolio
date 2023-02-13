@@ -46,7 +46,7 @@ Design/Analysis of Algorithms
 
 Data Analyst at Report Right 
 
-March 2022 to Present 
+March 2022 to February 2023
 
 Duties: 
 
