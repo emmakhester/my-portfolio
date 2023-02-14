@@ -18,7 +18,7 @@ future. In the meantime, please browse my certification projects.
 
 == Education ==
 
-I studied Mathematics at Texas Tech University from 2011 and 2015, and received a B.S. Mathematics Magna Cum Laude, with a GPA of 3.7.
+I studied Mathematics at Texas Tech University and received a B.S. Mathematics Magna Cum Laude, with a GPA of 3.7.
 I minored in Computer Science. Relevant coursework includes:
 
 -- MATHEMATICS:
