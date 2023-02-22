@@ -75,7 +75,8 @@ WHERE continent IS NOT NULL
 
 -- We can also look at this by date:
 
-SELECT date, SUM(new_cases) AS TotalCases, SUM(CAST(new_deaths AS BIGINT)) AS TotalDeaths, (SUM(CAST(new_deaths AS BIGINT)) / SUM(new_cases) * 100) AS DeathsAsPercentageOfCases
+SELECT date, SUM(new_cases) AS TotalCases, SUM(CAST(new_deaths AS BIGINT)) AS TotalDeaths, 
+(SUM(CAST(new_deaths AS BIGINT)) / SUM(new_cases) * 100) AS DeathsAsPercentageOfCases
 FROM COVIDPortfolioProject..CovidDeaths
 WHERE continent IS NOT NULL
 GROUP BY date
