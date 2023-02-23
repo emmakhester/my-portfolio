@@ -9,7 +9,7 @@ Hi, my name is Emma. I'm studying to become a better data analyst and software d
 My programming education was primarily in C++, which is the language in which I learned about data structures, algorithm design, and object-oriented programming. 
 Independently, I study Python (including PyData stack libraries like Numpy, pandas, and matplotlib) and SQL (primarily using PostgreSQL and MS SQL Server).
 I'm pretty familiar with Microsoft Excel after using it for data analysis and visualization for my last job but I'm always striving to learn more.
-I hope to learn about some common BI tools like Tableau and Power BI very soon.
+I'm also learning about Tableau right now, and I'm capable of making some nice visualizations.
 Overall, I have a broad mathematical background, though I focused on statistics at the end of my Bachelor's.
 
 == Projects ==
